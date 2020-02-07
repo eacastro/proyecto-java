@@ -5,6 +5,7 @@ public class HelloWorld
 	{
 
 		new Saludador().saludar();
+		System.out.println("This is another method");
 
 	} // End main method
 
